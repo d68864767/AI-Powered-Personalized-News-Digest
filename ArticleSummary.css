@@ -1,0 +1,36 @@
+```css
+/* ArticleSummary.css */
+
+.article-summary {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.article-summary h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.article-summary a {
+  color: #007BFF;
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.article-summary a:hover {
+  color: #0056b3;
+}
+
+.article-summary p {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.article-summary h3 {
+  color: #333;
+  margin-bottom: 10px;
+}
+```

@@ -1,0 +1,39 @@
+```css
+/* DailyDigest.css */
+
+.DailyDigest {
+  margin: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.DailyDigest h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.DailyDigest .article {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.DailyDigest .article h2 {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.DailyDigest .article p {
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.DailyDigest .article a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.DailyDigest .article a:hover {
+  color: #0056b3;
+}
+```

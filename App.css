@@ -1,0 +1,53 @@
+```css
+/* App.css */
+
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Common styles for all pages */
+h1, h2, p {
+  color: #333;
+}
+
+a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0056b3;
+}
+
+/* User Profile styles */
+.UserProfile {
+  margin: 20px;
+}
+
+/* News Feed styles */
+.NewsFeed {
+  margin: 20px;
+}
+
+.NewsFeed .article {
+  border: 1px solid #ddd;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Article Summary styles */
+.article-summary {
+  margin: 20px;
+}
+
+/* Daily Digest styles */
+.DailyDigest {
+  margin: 20px;
+}
+
+/* Feedback styles */
+.Feedback {
+  margin: 20px;
+}
+```
